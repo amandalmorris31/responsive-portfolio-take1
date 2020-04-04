@@ -1,0 +1,83 @@
+.navbar-light .navbar-brand {
+    background-color: #009688;
+    color: white;
+    padding: 25px 20px;
+    margin-top: 0;
+    margin-bottom; 0;
+    font-size: 2.5rem;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #009688;
+
+} 
+    
+.navbar-expand-lg .navbar-collapse {
+  float: right;
+
+}
+
+.card-text:last-child {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#img-thumbnail {
+    float: left; 
+    margin: 4px 20px 10px 0px; 
+    border: 1px solid #009688;
+    height: 200px;
+    width: 200px; 
+}
+
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center; 
+}
+/* 
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+    margin-right: 25px;
+
+} */
+
+
+
+#bannercontainer{
+    position: relative !important;
+}
+
+
+#bannertext{
+    position:absolute !important;
+    bottom:8px !important;
+    right:16px !important;
+
+
+}
+
+
+/*portfolio area*/
+#portfoliobanner{
+    position: relative;
+    left: 0px;
+    top:-55px;
+    width:100%;
+    background-color: #009688;
+    border: 1px solid rgb(32, 32, 32);
+    padding:5px;
+    margin:0px;
+    text-align: center;
+    color:white;
+    }
+
+   
